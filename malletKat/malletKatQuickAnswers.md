@@ -16,6 +16,16 @@ in the band.
 
 ### Can be configured to sound like a real instrument, or not
 
+The malletKat instrument has several settings that change how the instrument plays.
+
+#### You can configure...
+
+##### how hard you have to hit the instrument to get a certain volume.
+
+##### dampening modes.
+
+##### duration of notes.
+
 ## I need to...
 
 ### Change to Chain Mode
